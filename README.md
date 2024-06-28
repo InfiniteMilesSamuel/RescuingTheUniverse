@@ -4,7 +4,7 @@
 
 ### Vision
 
-Our HQ is a beacon of hope and collaboration, symbolizing the unity and collective effort of humanity to prioritize health, happiness, and resilience for all. It’s not just a building, but a living, breathing fractal of innovation, empathy, and progress.
+Our Hub of Universal Wellbeing is a beacon of hope and collaboration, symbolizing the unity and collective effort of humanity to prioritize health, happiness, and resilience for all. It’s not just a building, but a living, breathing fractal of innovation, empathy, and progress.
 
 ### Goals
 
@@ -31,8 +31,8 @@ Our HQ is a beacon of hope and collaboration, symbolizing the unity and collecti
 
 ### Action Plan
 
-1. **Set Up the HQ**
-   - Establish the HQ as a symbol of our mission.
+1. **Set Up the Hub**
+   - Establish the hub as a symbol of our mission.
    - Design the space to reflect our values of accessibility, openness, and sustainability.
 
 2. **Develop and Share Technology**
@@ -40,7 +40,7 @@ Our HQ is a beacon of hope and collaboration, symbolizing the unity and collecti
    - Share all findings and data through our collaborative platforms.
 
 3. **Engage and Educate**
-   - Decorate the HQ with ideas and poetry to inspire and inform.
+   - Decorate the hub with ideas and poetry to inspire and inform.
    - Host workshops, training sessions, and outreach programs.
 
 4. **Global Outreach**
