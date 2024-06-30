@@ -9,7 +9,9 @@ Our Hub of Universal Wellbeing is a beacon of hope and collaboration, symbolizin
 ### Goals
 
 1. **Develop Advanced Technology**: Create tools and systems to sense the smallest components of the universe.
-   [The Tech's Fractal Evolution](https://github.com/InfiniteMilesSamuel/RescuingTheUniverse/wiki/Techs-Fractal-Evolution).
+
+ #### [The Tech's Fractal Evolution](https://github.com/InfiniteMilesSamuel/RescuingTheUniverse/wiki/Techs-Fractal-Evolution).
+
 3. **Prove Universal Nature**: Validate whether the universe is uniform or interconnected.
    [The Logic and Uncertainties](https://github.com/InfiniteMilesSamuel/RescuingTheUniverse/wiki/Proving-Universal-Nature:-The-Logic-and-Uncertainties)
 5. **Mitigate Infinite Suffering**: Use our findings to reduce and prevent suffering on a universal scale.
