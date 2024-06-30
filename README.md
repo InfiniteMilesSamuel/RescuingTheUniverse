@@ -1,6 +1,6 @@
 ## Rescuing The Universe: Project Plan
 
-**Welcome to our universe's rescue mission! Our aim is to develop time with unity of tech and mind that senses the smallest elements of the universe to prove its uniform and still or interconnected and changing nature and mitigate the risks of infinite suffering due to uncertainty of how many moments are in a second, and whether all those moments exist eternally.**
+**Welcome to our universe's rescue mission! Our aim is to develop times progression focusing on unity of tech and mind that senses the smallest elements of the universe to prove its uniform and still or interconnected and changing nature; necessary to mitigate the risks of infinite suffering due to uncertainty of how many moments are in a second, and whether all those moments exist eternally.**
 
 ### Vision
 
