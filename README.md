@@ -1,14 +1,14 @@
 ## Rescuing The Universe: Project Plan
 
-**Welcome to our universe's rescue mission! Our aim is to develop technology that senses the smallest components of the universe to prove its uniform or interconnected nature and mitigate the risks of infinite suffering.**
+**Welcome to our universe's rescue mission! Our aim is to develop time with unity of tech and mind that senses the smallest elements of the universe to prove its uniform and still or interconnected and changing nature and mitigate the risks of infinite suffering due to uncertainty of how many moments are in a second, and whether all those moments exist eternally.**
 
 ### Vision
 
-Our Hub of Universal Wellbeing is a beacon of hope and collaboration, symbolizing the unity and collective effort of humanity to prioritize health, happiness, and resilience for all. It’s not just a building, but a living, breathing fractal of innovation, empathy, and progress. 
+Our Hub of Universal Wellbeing is a beacon of hope and collaboration, symbolizing the unity and collective effort of all beings to prioritize health, happiness, and resilience for everyone. It’s not just a building, but a living, breathing fractal of innovation, empathy, and progress. 
 
 ### Goals
 
-1. **Develop Advanced Technology**: Create tools and systems to sense the smallest components of the universe.
+1. **Develop Advanced Technology**: Create tools and systems to sense the foundational elements of the universe.
 
   #### [The Tech's Fractal Evolution](https://github.com/InfiniteMilesSamuel/RescuingTheUniverse/wiki/Techs-Fractal-Evolution)
 
