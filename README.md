@@ -4,14 +4,18 @@
 
 ### Vision
 
-Our Hub of Universal Wellbeing is a beacon of hope and collaboration, symbolizing the unity and collective effort of humanity to prioritize health, happiness, and resilience for all. It’s not just a building, but a living, breathing fractal of innovation, empathy, and progress.
+Our Hub of Universal Wellbeing is a beacon of hope and collaboration, symbolizing the unity and collective effort of humanity to prioritize health, happiness, and resilience for all. It’s not just a building, but a living, breathing fractal of innovation, empathy, and progress. 
 
 ### Goals
 
 1. **Develop Advanced Technology**: Create tools and systems to sense the smallest components of the universe.
-2. **Prove Universal Nature**: Validate whether the universe is uniform or interconnected.
-3. **Mitigate Infinite Suffering**: Use our findings to reduce and prevent suffering on a universal scale.
-4. **Foster Global Collaboration**: Encourage contributions from people worldwide, making all tools, data, and findings freely available.
+   [The Tech's Fractal Evolution](https://github.com/InfiniteMilesSamuel/RescuingTheUniverse/wiki/Techs-Fractal-Evolution).
+3. **Prove Universal Nature**: Validate whether the universe is uniform or interconnected.
+   [The Logic and Uncertainties](https://github.com/InfiniteMilesSamuel/RescuingTheUniverse/wiki/Proving-Universal-Nature:-The-Logic-and-Uncertainties)
+5. **Mitigate Infinite Suffering**: Use our findings to reduce and prevent suffering on a universal scale.
+   [Reduction and Ultimately Prevention](https://github.com/InfiniteMilesSamuel/RescuingTheUniverse/wiki/Mitigate-Infinite-Suffering:-Reducing-and-Preventing-Suffering-on-a-Universal-Scale)
+7. **Foster Global Collaboration**: Encourage contributions from people worldwide, making all tools, data, and findings freely available.
+   [Why Collaboration is Important](https://github.com/InfiniteMilesSamuel/RescuingTheUniverse/wiki/Foster-Global-Collaboration:-Encourage-Contributions-from-People-Worldwide)
 
 ### Key Components
 
@@ -29,27 +33,27 @@ Our Hub of Universal Wellbeing is a beacon of hope and collaboration, symbolizin
    - Sustainability at the core with earth-saving technology and unlimited energy sources.
    - Harmonize with nature, showing respect for the planet while advancing tech.
 
+[The Hub of Universal Wellbeing Wiki](https://github.com/InfiniteMilesSamuel/RescuingTheUniverse/wiki/A-Hub-for-Universal-Wellbeing)
+
 ### Action Plan
 
 1. **Set Up the Hub**
    - Establish the hub as a symbol of our mission.
    - Design the space to reflect our values of accessibility, openness, and sustainability.
 
+[The Setup Plan](https://github.com/InfiniteMilesSamuel/RescuingTheUniverse/wiki/Action-Plan-1:-Hub-Setup)
+
 2. **Develop and Share Technology**
    - Create and open-source tools to sense the universe's smallest components.
    - Share all findings and data through our collaborative platforms.
+
+[Development and Access Requirement Plan](https://github.com/InfiniteMilesSamuel/RescuingTheUniverse/wiki/Action-Plan-2:-Develop-and-Access-Technology)
 
 3. **Engage and Educate**
    - Decorate the hub with ideas and poetry to inspire and inform.
    - Host workshops, training sessions, and outreach programs.
 
-4. **Global Outreach**
-   - Use social media, forums, and educational platforms to spread awareness.
-   - Encourage global participation and contributions.
-
-5. **Monitor and Adapt**
-   - Continuously gather feedback and refine our approach.
-   - Ensure the project stays aligned with its mission and values.
+[For Holistic Understanding of Action Plan Part 3](https://github.com/InfiniteMilesSamuel/RescuingTheUniverse/wiki/Action-Plan-3:-Engage-and-Educate)
 
 ### Call to Action
 
