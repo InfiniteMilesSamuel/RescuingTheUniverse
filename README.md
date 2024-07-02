@@ -68,7 +68,21 @@ Join us in our quest to rescue the universe. Whether you're a scientist, enginee
 
 
 ## How to Contribute
-- Fork this repo
-- Clone your fork
-- Create a new branch for your work
-- Submit a pull request with your changes
+
+Fork this repo
+
+Clone your fork
+
+Create a new branch for your work
+
+Submit a pull request with your changes
+
+## Standards for Changes:
+
+**Clarity and Detail:** Ensure all additions or modifications are clear, detailed, and easily understandable.
+**Accuracy:** Verify that all information is accurate and supported by evidence or sources.
+**Consistency:** Maintain a consistent tone and style throughout the document.
+**Relevance:** Make sure all content is relevant to the project's goals and objectives.
+**Organization:** Structure your contributions logically, making it easy for readers to follow.
+**Accessibility:** Ensure the information is accessible to a wide audience, avoiding jargon and overly technical language.
+**Feedback:** Be open to feedback and ready to make adjustments based on suggestions from the community.
